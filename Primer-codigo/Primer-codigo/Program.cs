@@ -13,10 +13,12 @@ namespace Primer_codigo
             Boolean continuar = true;
             while (continuar) {
                 Console.Clear();
-           do { int a = 1, b = 0, c =0 ;
+                int a = 1, b = 0, c = 0;
+                do { 
                     c = a+b ;
-                    b= b+c ;
-                    a = a+c ;
+                    Console.WriteLine("{0}+{1}={2}", a,b,c);
+                    b= a ;
+                    a = c ;
 
                 } while ( a <= 1000);
                 
