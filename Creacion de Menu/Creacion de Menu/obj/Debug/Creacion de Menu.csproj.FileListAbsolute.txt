@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\Prograll-Virtual-2024\Creacion de Menu\Creacion de Menu\obj\Debug\Creacion de Menu.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Prograll-Virtual-2024\Creacion de Menu\Creacion de Menu\obj\Debug\Creacion de Menu.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Prograll-Virtual-2024\Creacion de Menu\Creacion de Menu\bin\Debug\Creacion de Menu.exe.config
+C:\Users\PC\Desktop\Prograll-Virtual-2024\Creacion de Menu\Creacion de Menu\bin\Debug\Creacion de Menu.exe
+C:\Users\PC\Desktop\Prograll-Virtual-2024\Creacion de Menu\Creacion de Menu\bin\Debug\Creacion de Menu.pdb
+C:\Users\PC\Desktop\Prograll-Virtual-2024\Creacion de Menu\Creacion de Menu\obj\Debug\Creacion de Menu.exe
+C:\Users\PC\Desktop\Prograll-Virtual-2024\Creacion de Menu\Creacion de Menu\obj\Debug\Creacion de Menu.pdb
