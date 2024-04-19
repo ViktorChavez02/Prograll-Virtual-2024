@@ -13,11 +13,13 @@ namespace Primer_codigo
             Boolean continuar = true;
             while (continuar) {
                 Console.Clear();
-                Console.Write("dame un numero para tu tabla");
-                int tabla = int.Parse(Console.ReadLine());
-                for (int i = 1; i <= 10; i++) {
-                    Console.WriteLine("{0} X {1} = {2}", tabla, i, tabla * i);
-                }
+           do { int a = 1, b = 0, c =0 ;
+                    c = a+b ;
+                    b= b+c ;
+                    a = a+c ;
+
+                } while ( a <= 1000);
+                
                 Console.Write("Presionar cualquier tecla para continuar");
                 continuar = !Console.ReadLine().Equals("s");
                     }
