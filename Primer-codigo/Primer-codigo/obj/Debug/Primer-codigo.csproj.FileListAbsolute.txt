@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\Prograll-Virtual-2024\Primer-codigo\Primer-codigo\bin\Debug\Primer-codigo.exe.config
+C:\Users\PC\Desktop\Prograll-Virtual-2024\Primer-codigo\Primer-codigo\bin\Debug\Primer-codigo.exe
+C:\Users\PC\Desktop\Prograll-Virtual-2024\Primer-codigo\Primer-codigo\bin\Debug\Primer-codigo.pdb
+C:\Users\PC\Desktop\Prograll-Virtual-2024\Primer-codigo\Primer-codigo\obj\Debug\Primer-codigo.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Prograll-Virtual-2024\Primer-codigo\Primer-codigo\obj\Debug\Primer-codigo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Prograll-Virtual-2024\Primer-codigo\Primer-codigo\obj\Debug\Primer-codigo.exe
+C:\Users\PC\Desktop\Prograll-Virtual-2024\Primer-codigo\Primer-codigo\obj\Debug\Primer-codigo.pdb
