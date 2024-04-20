@@ -36,14 +36,14 @@ namespace Creacion_de_Menu
                      Console.Clear();
                         sumasolopos();
                       break;
-                    //case 4:
-                    //  Console.Clear();
-                    // parImpar();
-                    //break;
-                    //case 5:
-                    //  Console.Clear();
-                    //determinarPrimo();
-                    // break;
+                    case 4:
+                      Console.Clear();
+                     suma5nums();
+                    break;
+                    case 5:
+                      Console.Clear();
+                    Promedionum();
+                     break;
                     default:
                         continuar = false;
                         break;
@@ -95,7 +95,57 @@ namespace Creacion_de_Menu
             }
             while (seg == true);
         }
-        static void suma5nums() { 
+        static void suma5nums() {
+            int total = 0, numero, count = 0;
+            Boolean seg = true;
+            do
+            {
+                Console.Write("escribe un numero: ");
+                numero = int.Parse(Console.ReadLine());
+
+                total += numero;
+
+                count ++;
+
+                if(count == 5)
+                {
+                    Console.WriteLine("la suma de los 5 numeros es: {0} ", total);
+                }
+                else
+                {
+                    continue;
+                }
+                
+            } while (seg == true);
+            Console.WriteLine("la suma de los 5 numeros es: {0} ", total);
+        
+        }
+
+        static void Promedionum() {
+
+            double count = 0, numero = 0,prom, total = 0;
+            Boolean cont = true;
+
+            while (cont == true)
+            {
+               Console.Write("Ingrese un numero para finalizar ingrese cero ");
+                numero = int.Parse(Console.ReadLine()) ;
+                total += numero;
+              
+
+                if (numero == 0)
+                {
+                   prom = total / count;
+
+                    Console.WriteLine("EL total es {0} el promedio del total es: {1}",total ,prom);
+                    cont = false;
+
+                }else
+                {
+                    count++;
+                    continue;
+                }
+            }
         
         }
     }
